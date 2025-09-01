@@ -7,3 +7,7 @@ python_task_3.py : Takes input from user and returns whether it is even or odd a
 python_task_4.py : Calculates sum of integers from 1 to 50 as output.
 python_task_5.py : Takes input from user and returns its factorial value as output.
 python_task_6.py : Takes input from user and returns its square root, natural log and sine value as output.
+python_task_7.py : Opens and reads a file. Prints its contents line by line.
+python_task_8.py : Takes user input and writes/appends it to a file. Displays final file content as output.
+python_task_9.py : Creates a dictionary of student names and marks. Takes student name as input from user and returns their marks if found as output.
+python_task_10.py : Takes a list from 1 to 10 then slices and reverses it.
